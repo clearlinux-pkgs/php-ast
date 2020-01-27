@@ -4,10 +4,10 @@
 #
 Name     : php-ast
 Version  : 1.0.5
-Release  : 5
+Release  : 6
 URL      : https://pecl.php.net/get/ast-1.0.5.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.5.tgz
-Summary  : Extension exposing PHP 7 abstract syntax tree.
+Summary  : No detailed summary available
 Group    : Development/Tools
 License  : BSD-3-Clause
 Requires: php-ast-lib = %{version}-%{release}
@@ -47,4 +47,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20180731/ast.so
+/usr/lib64/extensions/no-debug-non-zts-20190902/ast.so
