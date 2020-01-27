@@ -4,7 +4,7 @@
 #
 Name     : php-ast
 Version  : 1.0.5
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net/get/ast-1.0.5.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.5.tgz
 Summary  : Extension exposing PHP 7 abstract syntax tree.
