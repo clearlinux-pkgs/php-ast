@@ -4,10 +4,10 @@
 #
 Name     : php-ast
 Version  : 1.0.6
-Release  : 7
+Release  : 8
 URL      : https://pecl.php.net/get/ast-1.0.6.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.6.tgz
-Summary  : Extension exposing PHP 7 abstract syntax tree.
+Summary  : No detailed summary available
 Group    : Development/Tools
 License  : BSD-3-Clause
 Requires: php-ast-lib = %{version}-%{release}
