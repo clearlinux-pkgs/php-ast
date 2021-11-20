@@ -4,7 +4,7 @@
 #
 Name     : php-ast
 Version  : 1.0.14
-Release  : 22
+Release  : 23
 URL      : https://pecl.php.net/get/ast-1.0.14.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.14.tgz
 Summary  : No detailed summary available
