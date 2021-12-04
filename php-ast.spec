@@ -4,7 +4,7 @@
 #
 Name     : php-ast
 Version  : 1.0.16
-Release  : 26
+Release  : 27
 URL      : https://pecl.php.net/get/ast-1.0.16.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.16.tgz
 Summary  : No detailed summary available
