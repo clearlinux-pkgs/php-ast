@@ -4,7 +4,7 @@
 #
 Name     : php-ast
 Version  : 1.0.16
-Release  : 25
+Release  : 26
 URL      : https://pecl.php.net/get/ast-1.0.16.tgz
 Source0  : https://pecl.php.net/get/ast-1.0.16.tgz
 Summary  : No detailed summary available
@@ -47,4 +47,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20200930/ast.so
+/usr/lib64/extensions/no-debug-non-zts-20210902/ast.so
