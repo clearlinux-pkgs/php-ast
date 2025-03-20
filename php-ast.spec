@@ -7,7 +7,7 @@
 #
 Name     : php-ast
 Version  : 1.1.2
-Release  : 92
+Release  : 93
 URL      : https://pecl.php.net/get/ast-1.1.2.tgz
 Source0  : https://pecl.php.net/get/ast-1.1.2.tgz
 Summary  : No detailed summary available
